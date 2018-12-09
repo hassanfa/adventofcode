@@ -30,11 +30,5 @@ void main(string[] args) {
     if ( p == 1){
       writeln("part 1 answer is:", s);
     }
-//    break;
   }  
-
-  foreach (e; s_t.byKeyValue) {
-    //writeln(e.key, ": ", e.value);
-  }
-  //writeln(s);
 }
